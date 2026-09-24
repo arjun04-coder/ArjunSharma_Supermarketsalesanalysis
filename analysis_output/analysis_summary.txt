@@ -1,0 +1,12 @@
+SUPERMARKET SALES ANALYSIS
+========================================
+
+Total Transactions: 500
+Total Sales: ₹244,411.08
+Average Transaction: ₹488.82
+Average Rating: 3.99/5
+
+Highest Sales Product: Cheese - ₹27,906.30
+Best Branch: C (Mumbai) - ₹72,469.45
+Highest Sales Category: Beverages - ₹56,108.24
+Most Used Payment: UPI - 127 transactions
